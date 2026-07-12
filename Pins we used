@@ -1,0 +1,6 @@
+Pins :    
+
+Potentiometer : GPIO 34 + 3.3V + GND
+Servo motor : GPIO 13 + 5V + GND
+Switch GPIO 12 3.3V + GND
+
